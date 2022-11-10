@@ -37,7 +37,6 @@ declare(strict_types=1);
 
 return [
     'path' => 'app/views',
-    'cache_dir' => 'runtime/cache/smarty/cache',
-    'compile_dir' => 'runtime/cache/smarty/compile',
+    'cache_dir' => 'runtime/cache/handlebars',
 ];
 ```
